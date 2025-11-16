@@ -1,0 +1,21 @@
+node_modules/
+dist/
+node_modules.zip
+
+# Compiled files
+*.js
+!handler.js
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+
+# Lambda zip
+*.zip
